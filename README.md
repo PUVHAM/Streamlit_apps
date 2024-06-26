@@ -14,7 +14,7 @@ This repository contains three Streamlit applications for different tasks: ChatB
 First, clone the repository:
 
 ```bash
-https://github.com/PUVHAM/Streamlit_apps.git
+git clone https://github.com/PUVHAM/Streamlit_apps.git
 cd Streamlit_apps
 ```
 
